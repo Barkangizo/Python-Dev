@@ -9,5 +9,17 @@ names = [
     ]
 
 
-for name in names:
-    print(name)
+
+    
+
+print(len(names))
+
+
+def display_list():
+    for name in names:
+        print(name)
+        
+
+display_list()
+    
+    
