@@ -1,1 +1,1 @@
-print(this is assignment page")
+print('this is asignment page')
