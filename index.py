@@ -74,6 +74,8 @@ list2 = [1, 5, 7, 9, 3]
 
 # y = 300.78
 
-# print(int(y))
+print(int(y))
+
+print(str(x))
 
 
